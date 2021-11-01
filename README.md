@@ -1,0 +1,1 @@
+# This code numerically computes solution for a pseudo-3D hydraulic fracture with symmetric stress barriers. You need to run EP3D_main.m in either Matlab or Octave. Relevant publication for this code is https://www.sciencedirect.com/science/article/abs/pii/S0013794415002404.
